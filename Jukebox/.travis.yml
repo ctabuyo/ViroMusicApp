@@ -1,0 +1,22 @@
+# references:
+# * http://www.objc.io/issue-6/travis-ci.html
+# * https://github.com/supermarin/xcpretty#usage
+
+language: objective-c
+osx_image: xcode8
+env:
+  global:
+    - WORKSPACE=Jukebox.xcworkspace
+    - FRAMEWORK_NAME=Jukebox
+    - PROJECT=Jukebox.xcodeproj
+    - SCHEME=Jukebox
+    - SDK=iphonesimulator10
+install:
+- gem install xcpretty --no-rdoc --no-ri --no-document --quiet
+before_deploy:
+  - carthage build --no-skip-current
+  - carthage archive $FRAMEWORK_NAME
+script:
+- set -o pipefail
+- xcodebuild -scheme $SCHEME -workspace $WORKSPACE -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 7,OS=10.0' build test
+- pod lib lint --quick

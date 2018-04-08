@@ -1,0 +1,59 @@
+/* 
+  Localizable.strings
+  Viro
+
+  Created by Gonzalo Duarte  on 20/11/16.
+  Copyright © 2016 Gonzalo Duarte . All rights reserved.
+*/
+//ITALIANINIIIII
+
+//MARK: - REGISTER
+error_title = "Errore durante la firma";
+error_message = "Si prega di riprovare";
+search_error_title_MyMusic = "Si è verificato un errore";
+search_error_message_MyMusic = "Non sembra avere qualsiasi canzone qui, si prega di aggiungere un po 'e riprovare :)";
+videoLong_title = "Si è verificato un errore";
+videoLong_error = "Purtroppo il nostro sistema non è in grado di giocare a questa canzone. Stiamo lavorando duramente per risolvere il problema il prima possibile :)";
+warning_title = "Attento!";
+times_exceeded_title = "Periodo di prova è finito!";
+times_exceeded_message = "Il tuo periodo di prova ha finalizzato, si prega di acquistare Viro Premium ora e si gode di sempre! :)";
+warning_Mesage = "Si prega di introdurre le informazioni richieste";
+wrong_Pass_title = "Avvertimento!";
+wrong_Pass_message = "Si prega di scrivere la stessa password";
+welcome_Title = "Benvenuto!";
+welcome_Message = "Procedendo si accetta, che Viro è ancora in fase iniziale, e che si potrebbe incontrare alcuni errori, mentre la riproduzione di musica. Buona giornata :)";
+
+//MARK: - TRENDY
+noacc_iap_err_title = "Can´t purchase Viro Premium!";
+noacc_iap_err  = "You need to create an account and log in before you are able to proceed with purchasing Viro Premium. Log In now!";
+
+//MARK: - NOW PLAYING
+streaming_title = "Diretta streaming";
+
+//MARK: - MY MUSIC
+cancel_title = "Annulla";
+take_picture_title = "Fare una foto";
+library_title = "Scegli dalla libreria";
+
+//MARK: - SEARCH
+search_error_title = "Si è verificato un errore...";
+search_error_message = "Noi non riusciva a scoprire che sul nostro sistema. Ci dispiace per l'inconvenienza :(";
+search_Bar_Title = "Cerca qui...";
+songs_title = "Canzoni";
+albums_title = "Album";
+artist_title = "Artisti";
+
+//MARK: - LOGIN
+login_title = "Questo è Viro.";
+noacc_title = "Read carefully!";
+noacc = "By proceeding you declare being aware that without account you will only be able to play 30s of a song, and you won´t be able to save music to your playlists,... We do recommend creating an account and buying Viro Premium now!";
+
+
+//MARK: - RESET PASSWORD
+email_sent = "Email inviato!!";
+email_not_sent = "Introdurre una e-mail";
+//MARK: - ADD
+"Where do you want to add the song %@ by %@ ?" = "Dove vuoi aggiungere il brano %@ da %@?";
+
+//MARK: _ AlertViews
+buy_button = "Buy";

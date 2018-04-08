@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  Viro
+
+  Created by Gonzalo Duarte  on 20/11/16.
+  Copyright © 2016 Gonzalo Duarte . All rights reserved.
+*/
+//ESPAÑOL JODER
+
+
+//MARK: - REGISTER
+error_title = "Error al registrarse";
+error_message = "por favor vuelva a intentarlo";
+search_error_title_MyMusic = "Se ha producido un error";
+search_error_message_MyMusic = "No parece que tengas ninguna canción aquí, por favor añade alguna e inténtelo de nuevo :)";
+videoLong_title = "Ocurrión un error!";
+videoLong_error = "Desafortunadamente no se puede reproducir esta canción. Estamos trabajando duro para solucionarlo lo antes posible :)";
+times_exceeded_title = "Compra Viro Premium!";
+times_exceeded_message = "Esta es una función premium, compra Viro Premium por 3,99 para siempre, y escucharás la canción completa. Si no, puedes escuchar 30 segundos en nuestra prueba gratis :)";
+warning_title = "Cuidado!";
+warning_Mesage = "Introduzca toda la información";
+wrong_Pass_title = "Espera amigo!";
+wrong_Pass_message = "Ponga la misma contraseña, por favor";
+welcome_Title = "Bienvenido!";
+welcome_Message = "Al proceder, acepta que Viro, está aun en su fase inicial de desarrollo, lo cual puede suponer que se encuentre con ciertos fallos en la utilización de la misma. Tenga un buen día :)";
+
+//MARK: - TRENDY
+noacc_iap_err_title = "Imposible comprar Viro Premium!";
+noacc_iap_err  = "Tienes que crear una cuenta y logearte antes de poder comprar Viro Premium. Logeate ahora!";
+noalbum_title = "Imposible acceder a este album!";
+noalbum = "Un error ha ocurrido al descargar este album, por favor inténtelo de nuevo más tarde!";
+bought_success_title = "Se ha comprado Viro Premium";
+bought_success = "Has comprado Viro Premium satisfactoriamente! Ahora disfrutarás de una subscripción de por vida y podrás escuchar cualquier canción, crear playlists, y mucho más. Además recibirás actualizaciones gratuitamente!";
+buy_Viro_Message = "Compra Viro premium para siempre, por 2,99€. Podrás escuchar las canciones enteras!!! \n \n También podrás guardar tu música favorita y crear tus propias playlits!";
+TSingles = "Canciones más escuchadas";
+TAlbums = "Albumés más escuchados";
+Charts = "Por países";
+Playlists = "Listas de reproducción";
+
+
+//MARK: - NOW PLAYING
+streaming_title = "En directo";
+
+//MARK: - MY MUSIC
+cancel_title = "Cancelar";
+take_picture_title = "Hacer foto";
+library_title = "Carrete";
+info_Title = "No has añadido ninguna canción";
+info_Message = "Para añadir música, presione 1 segundo sobre la canción deseada, o pulse el botón +";
+
+
+//MARK: - SEARCH
+search_error_title = "Un error ha ocurrido...";
+search_error_message = "No hemos podido encontrar la información en nuestro sistema. Lo sentimos :(";
+search_Bar_Title = "Buscar";
+songs_title = "Canciones";
+albums_title = "Albumes";
+artist_title = "Artistas";
+
+//MARK: - LOGIN
+login_title = "Esto es Viro";
+noacc_title = "Leer con cuidado!";
+noacc = "Al proceder declara que está enterado de que en esta opción muchas caracterísitcas como guardar tu música favorite, crear playlists,... No funcionan!";
+dismissButton = "Cerrar";
+
+//MARK: - RESET PASSWORD
+email_sent = "Email enviado!";
+email_not_sent = "Introduce un email";
+
+//MARK: - ADD
+"Where do you want to add the song %@ by %@ ?" = "¿Dónde quieres añadir la canción %@ de %@?";
+
+//MARK: _ AlertViews
+buy_button = "Comprar";
+proceed_nocount = "Proceder";

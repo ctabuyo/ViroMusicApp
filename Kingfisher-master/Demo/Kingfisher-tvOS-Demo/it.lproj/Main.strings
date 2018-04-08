@@ -1,0 +1,9 @@
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "73M-Nr-0wa"; */
+"73M-Nr-0wa.title" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Clear Cache"; ObjectID = "DS6-ds-fQK"; */
+"DS6-ds-fQK.title" = "Clear Cache";
+
+/* Class = "UIBarButtonItem"; title = "Reload"; ObjectID = "vsy-2H-Xfb"; */
+"vsy-2H-Xfb.title" = "Reload";

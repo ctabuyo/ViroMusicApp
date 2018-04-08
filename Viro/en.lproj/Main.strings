@@ -1,0 +1,285 @@
+
+/* Class = "UIButton"; normalTitle = "Shuffle"; ObjectID = "00x-V8-D9I"; */
+"00x-V8-D9I.normalTitle" = "Shuffle";
+
+/* Class = "UITextField"; placeholder = "Enter password"; ObjectID = "0b2-UY-EMt"; */
+"0b2-UY-EMt.placeholder" = "Enter password";
+
+/* Class = "UILabel"; text = "Radio España"; ObjectID = "0eW-ea-Ktd"; */
+"0eW-ea-Ktd.text" = "Radio España";
+
+/* Class = "UITextField"; text = "My Music."; ObjectID = "1KC-gV-iiI"; */
+"1KC-gV-iiI.text" = "  My Music.";
+
+/* Class = "UITabBarItem"; title = "Playlists"; ObjectID = "3f2-ag-ZVg"; */
+"3f2-ag-ZVg.title" = "Playlists";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "4RF-Dd-3j2"; */
+"4RF-Dd-3j2.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Radios"; ObjectID = "4ge-SQ-JNd"; */
+"4ge-SQ-JNd.text" = "Radios";
+
+/* Class = "UILabel"; text = "Albums"; ObjectID = "5KS-q3-pz7"; */
+"5KS-q3-pz7.text" = "Albums";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "5PP-QM-INi"; */
+"5PP-QM-INi.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "5kV-uV-rSU"; */
+"5kV-uV-rSU.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Caminito a Motel"; ObjectID = "704-3X-hJk"; */
+"704-3X-hJk.text" = "Caminito a Motel";
+
+/* Class = "UILabel"; text = "Led Zeppelin"; ObjectID = "7Nn-S8-dng"; */
+"7Nn-S8-dng.text" = "Led Zeppelin";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "95z-mh-jxU"; */
+"95z-mh-jxU.normalTitle" = "Play";
+
+/* Class = "UILabel"; text = "Stairway to Heaven"; ObjectID = "96K-90-PiV"; */
+"96K-90-PiV.text" = "Stairway to Heaven";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "9A2-Op-kFy"; */
+"9A2-Op-kFy.normalTitle" = "Sign Up";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "9u5-Mn-XcX"; */
+"9u5-Mn-XcX.title" = " ";
+
+/* Class = "UILabel"; text = "Stairway to Heaven"; ObjectID = "AGK-Xm-Cxa"; */
+"AGK-Xm-Cxa.text" = "Stairway to Heaven";
+
+/* Class = "UILabel"; text = "American Pie"; ObjectID = "BMW-na-qwC"; */
+"BMW-na-qwC.text" = "American Pie";
+
+/* Class = "UILabel"; text = "American Pie"; ObjectID = "Crg-6m-7ac"; */
+"Crg-6m-7ac.text" = "American Pie";
+
+/* Class = "UILabel"; text = "Dido White Flag"; ObjectID = "DqO-fQ-goZ"; */
+"DqO-fQ-goZ.text" = "Dido White Flag";
+
+/* Class = "UILabel"; text = "Thunder Road"; ObjectID = "Eiw-LU-2AT"; */
+"Eiw-LU-2AT.text" = "Thunder Road";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "ErL-ss-XDo"; */
+"ErL-ss-XDo.normalTitle" = "Forgot Password?";
+
+/* Class = "UINavigationItem"; title = "VIRO"; ObjectID = "Et1-ps-v9S"; */
+"Et1-ps-v9S.title" = "VIRO";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FA4-7s-mg1"; */
+"FA4-7s-mg1.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "GFa-ZH-7bw"; */
+"GFa-ZH-7bw.normalTitle" = "+";
+
+/* Class = "UITabBarItem"; title = "Music"; ObjectID = "GSP-8e-krd"; */
+"GSP-8e-krd.title" = "Music";
+
+/* Class = "UIButton"; normalTitle = "Edit image"; ObjectID = "HBO-WP-Kbb"; */
+"HBO-WP-Kbb.normalTitle" = "Edit image";
+
+/* Class = "UILabel"; text = "This is Viro."; ObjectID = "HPw-8z-JYv"; */
+"HPw-8z-JYv.text" = "This is Viro.";
+
+/* Class = "UILabel"; text = "Led Zeppelin"; ObjectID = "HZd-26-KKx"; */
+"HZd-26-KKx.text" = "Led Zeppelin";
+
+/* Class = "UINavigationItem"; title = "ARTIST"; ObjectID = "Heh-BE-oQc"; */
+"Heh-BE-oQc.title" = "ARTIST";
+
+/* Class = "UINavigationItem"; title = "VIRO"; ObjectID = "HxK-er-S8A"; */
+"HxK-er-S8A.title" = "VIRO";
+
+/* Class = "UILabel"; text = "Tres Tequilas"; ObjectID = "IvF-bt-oee"; */
+"IvF-bt-oee.text" = "Tres Tequilas";
+
+/* Class = "UILabel"; text = "  Trendy Music."; ObjectID = "Jp1-vc-o92"; */
+"Jp1-vc-o92.text" = "  Trendy Music.";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "KIT-V0-B0f"; */
+"KIT-V0-B0f.title" = " ";
+
+/* Class = "UILabel"; text = "Imagine Dragons"; ObjectID = "LbX-Uo-a6w"; */
+"LbX-Uo-a6w.text" = "Imagine Dragons";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "LkZ-UD-bBW"; */
+"LkZ-UD-bBW.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Taburete >"; ObjectID = "MaE-DV-d1w"; */
+"MaE-DV-d1w.normalTitle" = "Taburete >";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Meh-Xq-oZ5"; */
+"Meh-Xq-oZ5.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "Mn4-wQ-EGG"; */
+"Mn4-wQ-EGG.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OQr-08-ioz"; */
+"OQr-08-ioz.text" = "Label";
+
+/* Class = "UILabel"; text = "Led Zeppelin"; ObjectID = "Oz9-MP-zgO"; */
+"Oz9-MP-zgO.text" = "Led Zeppelin";
+
+/* Class = "UILabel"; text = "Led Zeppelin"; ObjectID = "Pc2-To-Wrh"; */
+"Pc2-To-Wrh.text" = "Led Zeppelin";
+
+/* Class = "UITabBarItem"; title = "My Music"; ObjectID = "Qfu-t2-mHq"; */
+"Qfu-t2-mHq.title" = "My Music";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "RBb-Hs-VNV"; */
+"RBb-Hs-VNV.title" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Rbq-AI-eN2"; */
+"Rbq-AI-eN2.text" = "Label";
+
+/* Class = "UILabel"; text = "Stairway to Heaven"; ObjectID = "ScD-Vi-ZCU"; */
+"ScD-Vi-ZCU.text" = "Stairway to Heaven";
+
+/* Class = "UILabel"; text = "Led Zeppelin"; ObjectID = "Sy9-Yl-N8R"; */
+"Sy9-Yl-N8R.text" = "Led Zeppelin";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TVk-tf-N5D"; */
+"TVk-tf-N5D.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "TsE-ZK-c7v"; */
+"TsE-ZK-c7v.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Password reset."; ObjectID = "ULy-fr-YMp"; */
+"ULy-fr-YMp.text" = "Password reset.";
+
+/* Class = "UILabel"; text = "48 songs"; ObjectID = "Ub2-2t-NrC"; */
+"Ub2-2t-NrC.text" = "48 songs";
+
+/* Class = "UILabel"; text = "Stairway to Heaven"; ObjectID = "VMt-07-Kbc"; */
+"VMt-07-Kbc.text" = "Stairway to Heaven";
+
+/* Class = "UIButton"; normalTitle = "Playlists >"; ObjectID = "WUL-Z1-Q07"; */
+"WUL-Z1-Q07.normalTitle" = "Playlists >";
+
+/* Class = "UILabel"; text = "0:00"; ObjectID = "X7o-4S-SZj"; */
+"X7o-4S-SZj.text" = "0:00";
+
+/* Class = "UIButton"; normalTitle = "Add Image +"; ObjectID = "Zdt-dl-dRr"; */
+"Zdt-dl-dRr.normalTitle" = "Add Image +";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "ZvH-CX-Ehk"; */
+"ZvH-CX-Ehk.text" = "1";
+
+/* Class = "UILabel"; text = "IPHONE 6S"; ObjectID = "ae4-gJ-nTh"; */
+"ae4-gJ-nTh.text" = "IPHONE 6S";
+
+/* Class = "UILabel"; text = "0:00"; ObjectID = "aga-p5-PAB"; */
+"aga-p5-PAB.text" = "0:00";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "akc-Ef-SZg"; */
+"akc-Ef-SZg.normalTitle" = "Delete";
+
+/* Class = "UILabel"; text = "•••"; ObjectID = "aut-3X-7XA"; */
+"aut-3X-7XA.text" = "•••";
+
+/* Class = "UILabel"; text = "Stairway to Heaven"; ObjectID = "b5T-7m-7O3"; */
+"b5T-7m-7O3.text" = "Stairway to Heaven";
+
+/* Class = "UINavigationItem"; title = "ALBUM"; ObjectID = "bxr-SW-O35"; */
+"bxr-SW-O35.title" = "ALBUM";
+
+/* Class = "UILabel"; text = "Stairway to Heaven"; ObjectID = "byO-i5-xZD"; */
+"byO-i5-xZD.text" = "Stairway to Heaven";
+
+/* Class = "UITextView"; text = "Where do you want to add the song The river, by bruce springsteen??"; ObjectID = "cC3-UK-Gpa"; */
+"cC3-UK-Gpa.text" = "Where do you want to add the song The river, by bruce springsteen??";
+
+/* Class = "UIButton"; normalTitle = "Taburete >"; ObjectID = "e0z-S1-M5r"; */
+"e0z-S1-M5r.normalTitle" = "Taburete >";
+
+/* Class = "UINavigationItem"; title = "VIRO"; ObjectID = "eLy-MD-9Uk"; */
+"eLy-MD-9Uk.title" = "VIRO";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "ebb-4t-Rjk"; */
+"ebb-4t-Rjk.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "My Music"; ObjectID = "f3v-gk-NON"; */
+"f3v-gk-NON.normalTitle" = "My Music";
+
+/* Class = "UINavigationItem"; title = "VIRO"; ObjectID = "fDD-nz-aXe"; */
+"fDD-nz-aXe.title" = "VIRO";
+
+/* Class = "UINavigationItem"; title = "ADD SONG"; ObjectID = "gdQ-V7-1lf"; */
+"gdQ-V7-1lf.title" = "ADD SONG";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "h34-on-957"; */
+"h34-on-957.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "i3F-Jm-L6D"; */
+"i3F-Jm-L6D.text" = "News";
+
+/* Class = "UILabel"; text = "On Air"; ObjectID = "i5t-Je-3W2"; */
+"i5t-Je-3W2.text" = "On Air";
+
+/* Class = "UIBarButtonItem"; title = "log out"; ObjectID = "idc-ig-JE3"; */
+"idc-ig-JE3.title" = "Log Out";
+
+/* Class = "UIButton"; normalTitle = "Aleatorio"; ObjectID = "kfH-gy-RQR"; */
+"kfH-gy-RQR.normalTitle" = "Shuffle";
+
+/* Class = "UITabBarItem"; title = "Radio"; ObjectID = "kyt-qU-UGT"; */
+"kyt-qU-UGT.title" = "Radio";
+
+/* Class = "UITextField"; placeholder = "Repeat password"; ObjectID = "lPe-83-xba"; */
+"lPe-83-xba.placeholder" = "Repeat password";
+
+/* Class = "UITextField"; placeholder = "Enter email adress"; ObjectID = "mAa-Ax-5C2"; */
+"mAa-Ax-5C2.placeholder" = "Enter email adress";
+
+/* Class = "UITextField"; placeholder = "Enter username"; ObjectID = "mMH-4J-W5y"; */
+"mMH-4J-W5y.placeholder" = "Enter username";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "mZG-ld-gE6"; */
+"mZG-ld-gE6.normalTitle" = "+";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "o5D-f6-7hA"; */
+"o5D-f6-7hA.title" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Go Premium"; ObjectID = "pnB-9p-z2X"; */
+"pnB-9p-z2X.normalTitle" = "Go Premium";
+
+/* Class = "UIButton"; normalTitle = "New here? Sign up"; ObjectID = "rOE-ML-eNU"; */
+"rOE-ML-eNU.normalTitle" = "New here? Sign up";
+
+/* Class = "UILabel"; text = "Radio España"; ObjectID = "sEo-0k-jKT"; */
+"sEo-0k-jKT.text" = "Radio España";
+
+/* Class = "UIButton"; normalTitle = "Proceed with no account!"; ObjectID = "trk-kg-AO6"; */
+"trk-kg-AO6.normalTitle" = "Free Trial";
+
+/* Class = "UILabel"; text = "Radio España"; ObjectID = "tvR-to-tt5"; */
+"tvR-to-tt5.text" = "Radio España";
+
+/* Class = "UILabel"; text = "Radio."; ObjectID = "uC5-vr-yS2"; */
+"uC5-vr-yS2.text" = "Radio.";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "v6f-Lh-GDf"; */
+"v6f-Lh-GDf.normalTitle" = "Log In";
+
+/* Class = "UIButton"; normalTitle = "Restore Premium"; ObjectID = "xZq-gm-4TZ"; */
+"xZq-gm-4TZ.normalTitle" = "Restore Premium";
+
+/* Class = "UINavigationItem"; title = "VIRO"; ObjectID = "yBB-LZ-GgZ"; */
+"yBB-LZ-GgZ.title" = "VIRO";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "yxp-LP-1pC"; */
+"yxp-LP-1pC.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "zUm-fn-z9W"; */
+"zUm-fn-z9W.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Led Zeppelin"; ObjectID = "ztn-sy-diw"; */
+"ztn-sy-diw.text" = "Led Zeppelin";
+
+/* Class = "UILabel"; text = "Songs"; ObjectID = "zv1-Ab-cpb"; */
+"zv1-Ab-cpb.text" = "Songs";
+
+/* Class = "UINavigationItem"; title = "NEW PLAYLIST"; ObjectID = "zxY-hh-VJF"; */
+"zxY-hh-VJF.title" = "NEW PLAYLIST";

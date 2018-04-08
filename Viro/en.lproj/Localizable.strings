@@ -1,0 +1,74 @@
+/* 
+  Localizable.strings
+  Viro
+
+  Created by Gonzalo Duarte  on 20/11/16.
+  Copyright © 2016 Gonzalo Duarte . All rights reserved.
+*/
+//ENGLISH BITCH
+
+
+//MARK: - REGISTER
+error_title = "Error while signing up";
+error_message = "please retry";
+search_error_title_MyMusic = "An error occurred";
+search_error_message_MyMusic = "You do not seem to have any song here, please add some and try again :)";
+videoLong_title = "An error ocurred";
+videoLong_error = "Unfortunately our system is not able to play this song. We are working hard to fix this ASAP :)";
+times_exceeded_title = "Buy Viro Premium!";
+times_exceeded_message = "This is a premium functionality, buy Viro Premium lifetime if you want to listen the full song, or go to the free trial for the first 30 seconds :)";
+warning_title = "Watch Out!";
+warning_Mesage = "Please introduce the required info";
+wrong_Pass_title = "Warning!";
+wrong_Pass_message = "Please write the same password";
+welcome_Title = "Welcome!";
+welcome_Message = "By proceeding you accept, that Viro is still on its initial stage, and that you could encounter some errors, while playing music. Have a nice day :)";
+initial_viro_premium = "";
+
+//MARK: - TRENDY
+noacc_iap_err_title = "Can´t purchase Viro Premium!";
+noacc_iap_err  = "You need to create an account and log in before you are able to proceed with purchasing Viro Premium. Log In now!";
+noalbum_title = "Can´t access this album!";
+noalbum = "An error occurred while downloading this album´s data, please try again later!";
+bought_success_title = "Viro Premium purchased successfully!";
+bought_success = "You´ve acquired Viro Premium, now you will enjoy of a lifetime subscription and be able to play any song, save your favorite songs, create playlists and much more. You will also receive updates for free!!";
+buy_Viro_Message = "Buy Viro premium lifetime for just $2.99, and you will enjoy the ability to save your favorite music, to create playlists. \n \n More importntly: You can listen to the full songs!!";
+TSingles = "Trending - Singles";
+TAlbums = "Trending - Albums";
+Charts = "Charts";
+Playlists = "Playlists";
+
+//MARK: - NOW PLAYING
+streaming_title = "Live Streaming";
+
+//MARK: - MY MUSIC
+cancel_title = "Cancel";
+take_picture_title = "Take Picture";
+library_title = "Choose from library";
+info_Title = "You haven't added music yet";
+info_Message = "To add music, long press on the song, or tap the + button";
+
+//MARK: - SEARCH
+search_error_title = "An error ocurred...";
+search_error_message = "We could not quite find that on our system. Sorry for the inconvenience :(";
+search_Bar_Title = "Search here...";
+songs_title = "Songs";
+albums_title = "Album";
+artist_title = "Artists";
+
+//MARK: - LOGIN
+login_title = "This is Viro.";
+noacc_title = "Read carefully!";
+noacc = "By proceeding you declare being aware that without account some features won´t work, such as saving your favorite music or creating playlists!";
+dismissButton = "Dismiss";
+
+//MARK: - RESET PASSWORD
+email_sent = "Email sent!!";
+email_not_sent = "Introduce an email";
+
+//MARK: - ADD
+"Where do you want to add the song %@ by %@ ?" = "Where do you want to add the song %@ by %@?";
+
+//MARK: _ AlertViews
+buy_button = "Buy";
+proceed_nocount = "Proceed";

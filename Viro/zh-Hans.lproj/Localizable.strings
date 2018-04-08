@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  Viro
+
+  Created by Gonzalo Duarte  on 20/11/16.
+  Copyright © 2016 Gonzalo Duarte . All rights reserved.
+*/
+//CHINO MAO
+
+//MARK: - REGISTER
+error_title = "注册时出错";
+error_message = "请重试";
+search_error_title_MyMusic = "发生错误";
+search_error_message_MyMusic = "您似乎没有任何歌曲，请添加一首歌曲，然后重试 :)";
+videoLong_title = "发生错误";
+times_exceeded_title = "购买Viro Premium ！";
+times_exceeded_message = "请立即购买 Viro Premium，您将永远享受它！ :)";
+videoLong_error = "很抱歉，我们的系统无法播放此歌曲。我们正在努力尽快解决这个问题 :)";
+warning_title = "小心!";
+warning_Mesage = "请介绍所需的信息";
+wrong_Pass_title = "警告!";
+wrong_Pass_message = "请输入相同的密码";
+welcome_Title = "欢迎!";
+welcome_Message = "通过继续你接受，Viro仍处于初始阶段，你可能会遇到一些错误，而播放音乐。祝你今天愉快";
+
+//MARK: - TRENDY
+noacc_iap_err_title = "無法購買 Viro 高級版!";
+noacc_iap_err  = "您需要先註冊/登入之後才能購買 Viro 高級版！";
+noalbum_title = "无法访问此相册！";
+noalbum = "下载此相册的数据时出错，请稍后再试！";
+bought_success_title = "Viro 高級版 成功购买！";
+bought_success = "你已经获得Viro 高級版，现在你将享受终身订阅，并能够播放任何歌曲，保存您最喜欢的歌曲，创建播放列表等等。您还将免费收到更新！";
+buy_Viro_Message = "";
+TSingles = "大多数倾听的歌曲";
+TAlbums = "大多数收听的专辑";
+Charts = "每个国家";
+Playlists = "播放列表";
+
+//MARK: - NOW PLAYING
+streaming_title = "实时流";
+
+//MARK: - MY MUSIC
+cancel_title = "取消";
+take_picture_title = "拍照片！";
+library_title = "选择照片";
+info_Title = "您尚未添加音乐";
+info_Message = "要添加音乐，请长按歌曲，或点击 + 按钮";
+
+//MARK: - SEARCH
+search_error_title = "发生错误...";
+search_error_message = "我们不能在我们的系统上找到。抱歉给你带来不便";
+search_Bar_Title = "在这里搜索...";
+songs_title = "歌曲";
+albums_title = "专辑";
+artist_title = "艺术家";
+
+//MARK: - LOGIN
+login_title = "这是Viro.";
+noacc_title = "仔细读！";
+noacc = "通过继续你宣布知道，没有帐户，一些功能不能工作，如保存您最喜欢的音乐或创建播放列表！";
+dismissButton = "取消";
+
+
+//MARK: - RESET PASSWORD
+email_sent = "邮件已发送!!";
+email_not_sent = "介绍电子邮件";
+//MARK: - ADD
+"Where do you want to add the song %@ by %@ ?" = "你要在哪里添加 %@ 的 %@ ?";
+
+//MARK: _ AlertViews
+buy_button = "买";
+proceed_nocount = "继续";
+

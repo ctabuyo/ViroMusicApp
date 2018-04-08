@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  Viro
+
+  Created by Gonzalo Duarte  on 20/11/16.
+  Copyright © 2016 Gonzalo Duarte . All rights reserved.
+*/
+//FRANCES 
+
+//MARK: - REGISTER
+error_title = "Une erreur s'est produite pendant de l´inscription";
+error_message = "Veuillez réessayer";
+search_error_title_MyMusic = "Une erreur s'est produite!";
+search_error_message_MyMusic = "Vous ne semblez avoir aucune chanson ici, s'il vous plaît ajouter une chanson et essayez à nouveau :)";
+videoLong_title = "Une erreur s'est produite!";
+videoLong_error = "Malheureusement, notre système n'est pas en mesure de jouer cette chanson. Nous travaillons dur pour corriger le problème dès que possible :)";
+times_exceeded_title = "Acheter Viro Premium!";
+times_exceeded_message = "C´est Premium Fonctionnalité, s'il vous plaît acheter Viro Premium maintenant et vous pourrez en profiter pour toujours! :)";
+
+warning_title = "Fais attention!";
+warning_Mesage = "Veuillez introduire l'information requise";
+wrong_Pass_title = "Attention!";
+wrong_Pass_message = "Veuillez écrire le même mot de passe";
+welcome_Title = "Bienvenue!";
+welcome_Message = "En procédant vous acceptez, que Viro est encore sur sa phase initiale, et que vous pourriez rencontrer des erreurs, tout en streaming de musique. Bonne journée :)";
+
+//MARK: - TRENDY
+noacc_iap_err_title = "Impossible d'acheter Viro Premium!";
+noacc_iap_err  = "Vous devez créer un compte et vous devez log-in avant de pouvoir procéder à l'achat de Viro Premium. Log-in maintenant!";
+noalbum_title = "Impossible d'accéder à cet album!";
+noalbum = "Une erreur s'est produite lors du téléchargement des données de cet album. Veuillez réessayer plus tard!";
+bought_success_title = "Viro Premium acheté avec succès!";
+bought_success = "Vous avez acquis Viro Premium, vous bénéficierez désormais d'un abonnement à vie et pourrez jouer n'importe quelle chanson, enregistrer vos chansons préférées, créer des playlists et bien plus encore. Vous recevrez également des mises à jour gratuitement!";
+TSingles = "La plupart des chansons écoutées";
+TAlbums = "La plupart des albums écoutés";
+Charts = "Par pays";
+Playlists = "Playlists";
+
+//MARK: - NOW PLAYING
+streaming_title = "En direct";
+
+//MARK: - MY MUSIC
+cancel_title = "Annuler";
+take_picture_title = "Prendre une photo";
+library_title = "Choisir une photo";
+info_Title = "Vous n'avez pas ajouté chansons";
+info_Message = "Pour ajouter chansons, appuyez sur la chanson 1 seconde, ou Appuyez sur la touche + ";
+buy_Viro_Message = "";
+//MARK: - SEARCH
+search_error_title = "Une erreur s'est produite...";
+search_error_message = "Nous ne pouvions pas trouver cela sur notre système. On á désolé pour le inconvénient :(";
+search_Bar_Title = "Cherche ici...";
+songs_title = "Chansons";
+albums_title = "Album";
+artist_title = "Artistes";
+
+//MARK: - LOGIN
+login_title = "C'est Viro.";
+noacc_title = "Lire attentivement!";
+noacc = "En procédant, vous déclarez être conscient que sans compte certaines fonctionnalités ne fonctionnera pas, telles que la sauvegarde de votre musique préférée ou la création de playlists!";
+dismissButton = "Annulation";
+
+//MARK: - RESET PASSWORD
+email_sent = "Email envoyé!!";
+email_not_sent = "Écrire un email";
+//MARK: - ADD
+"Where do you want to add the song %@ by %@ ?" = "Où voulez-vous ajouter la chanson %@ by %@? ";
+
+//MARK: _ AlertViews
+buy_button = "Acheter";
+proceed_nocount = "Procéder";
